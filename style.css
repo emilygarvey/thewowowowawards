@@ -1,0 +1,45 @@
+body  {
+    text-align: center;
+    background-color: black;
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4012119.jpg");
+    background-repeat: repeat-x;
+}
+
+img{
+    width: 400px;
+}
+
+h2{
+    font-size: 60px;
+    margin-bottom:0px;
+}
+
+p{
+    font-size: 30px;
+    margin-top: 0px;
+}
+.header {
+    font-family: 'Monoton', cursive;
+    font-size: 80px;
+    color: #edba2f;
+}
+
+.bestMovie{
+    font-family: 'Dancing Script', cursive;
+    color: pink;
+}
+
+.bestArtist{
+    font-family: 'Acme', cursive;
+    color: #99ef7a;
+}
+
+.bestGame{
+    font-family: 'Bungee', cursive;
+    color: #5995f7;
+}
+
+.bestClass{
+    font-family: 'Roboto Slab', cursive;
+    color: #EF5330;
+}
